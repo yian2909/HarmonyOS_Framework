@@ -1,0 +1,128 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "background",
+      "value": "#f1f1f1"
+    },
+    {
+      "name": "primary_brand1",
+      "value": "#007AFF"
+    },
+    {
+      "name": "secondary_brand1",
+      "value": "#5AC8FA"
+    },
+    {
+      "name": "success",
+      "value": "#34C759"
+    },
+    {
+      "name": "warning",
+      "value": "#FF9500"
+    },
+    {
+      "name": "error",
+      "value": "#FF3B30"
+    },
+    {
+      "name": "text_primary1",
+      "value": "#1D1D1F"
+    },
+    {
+      "name": "text_secondary1",
+      "value": "#8E8E93"
+    },
+    {
+      "name": "divider1",
+      "value": "#E5E5EA"
+    },
+    {
+      "name": "surface_primary1",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "surface_secondary1",
+      "value": "#F2F2F7"
+    },
+    {
+      "name": "overlay_light1",
+      "value": "#00000040"
+    },
+    {
+      "name": "start_window_background2",
+      "value": "#121212"
+    },
+    {
+      "name": "primary_brand2",
+      "value": "#BB86FC"
+    },
+    {
+      "name": "secondary_brand2",
+      "value": "#03DAC6"
+    },
+    {
+      "name": "text_primary2",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_secondary2",
+      "value": "#B3B3B3"
+    },
+    {
+      "name": "divider2",
+      "value": "#292929"
+    },
+    {
+      "name": "surface_primary2",
+      "value": "#1E1E1E"
+    },
+    {
+      "name": "surface_secondary2",
+      "value": "#2A2A2A"
+    },
+    {
+      "name": "overlay_dark2",
+      "value": "#FFFFFF33"
+    },
+    {
+      "name": "start_window_background3",
+      "value": "#FFFBF5"
+    },
+    {
+      "name": "primary_brand3",
+      "value": "#FF7043"
+    },
+    {
+      "name": "secondary_brand3",
+      "value": "#FFA726"
+    },
+    {
+      "name": "text_primary3",
+      "value": "#3E2723"
+    },
+    {
+      "name": "text_secondary3",
+      "value": "#795548"
+    },
+    {
+      "name": "divider3",
+      "value": "#D7CCC8"
+    },
+    {
+      "name": "surface_primary3",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "surface_secondary3",
+      "value": "#FFF8E1"
+    },
+    {
+      "name": "overlay_light3",
+      "value": "#00000030"
+    }
+  ]
+}

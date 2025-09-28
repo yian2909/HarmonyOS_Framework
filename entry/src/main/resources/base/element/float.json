@@ -1,0 +1,88 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "title_font_size",
+      "value": "30fp"
+    },
+    {
+      "name": "body_font_size",
+      "value": "23fp"
+    },
+    {
+      "name": "caption_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "button_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "padding_xs",
+      "value": "4vp"
+    },
+    {
+      "name": "padding_sm",
+      "value": "8vp"
+    },
+    {
+      "name": "padding_md",
+      "value": "16vp"
+    },
+    {
+      "name": "padding_lg",
+      "value": "24vp"
+    },
+    {
+      "name": "padding_xl",
+      "value": "32vp"
+    },
+    {
+      "name": "margin_xs",
+      "value": "4vp"
+    },
+    {
+      "name": "margin_sm",
+      "value": "8vp"
+    },
+    {
+      "name": "margin_md",
+      "value": "16vp"
+    },
+    {
+      "name": "margin_lg",
+      "value": "24vp"
+    },
+    {
+      "name": "margin_xl",
+      "value": "32vp"
+    },
+    {
+      "name": "border_radius_sm",
+      "value": "4vp"
+    },
+    {
+      "name": "border_radius_md",
+      "value": "8vp"
+    },
+    {
+      "name": "border_radius_lg",
+      "value": "16vp"
+    },
+    {
+      "name": "icon_size_sm",
+      "value": "16vp"
+    },
+    {
+      "name": "icon_size_md",
+      "value": "24vp"
+    },
+    {
+      "name": "icon_size_lg",
+      "value": "32vp"
+    }
+  ]
+}
